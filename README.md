@@ -1,3 +1,7 @@
-<p align="center">
-  <img src="tqq-qui.jpg" width="100%" alt="Gotoubun Banner">
-</p>
+<div align="center">
+
+<img src="banner.jpg" width="100%" alt="">
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,50:FFE066,100:FFB6C1&height=6)
+
+</div>
