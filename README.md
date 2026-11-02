@@ -1,14 +1,17 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hello%20World!&fontSize=50&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:FFE066,100:FFB6C1&height=220&section=header&text=Pimanut&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-# 🌸 MOMO🐔🐔🐔 🌸
+# Hello, I'm Pimanut
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&width=435&lines=กำลังเรียนเขียนโค้ด+💻;ชอบสิ่งน่ารัก+🐰;ยินดีที่ได้รู้จัก!)
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8FB1&center=true&width=435&lines=Learning+Python+and+C%2B%2B;Anime+lover;Nice+to+meet+you!)
 
-![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-DDA0DD?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="anime.png" width="300">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FFE066?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Anime](https://img.shields.io/badge/Anime-FFB6C1?style=for-the-badge)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFE066,100:87CEEB&height=100&section=footer)
 
 </div>
