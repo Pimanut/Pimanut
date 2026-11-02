@@ -4,6 +4,4 @@
 
 # Hello, I'm Pimanut
 
-![Style](https://img.shields.io/badge/Style-Kyoto%20Animation-FFB6C1?style=for-the-badge)
-
 </div>
