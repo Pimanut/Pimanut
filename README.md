@@ -1,3 +1,3 @@
 <div align="center">
-<img src="tqq qui.png" width="100%" alt="">
+<img src="TQQWHITE1.webp" width="100%" alt="">
 </div>
