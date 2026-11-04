@@ -1,3 +1,3 @@
-<video 
-  src="TQQ GITHUB" width="100%" controls muted autoplay>
-</video>
+<div align="center">
+<img src="TQQWHITE1.webp" width="100%" alt="">
+</div>
