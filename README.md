@@ -1,5 +1,3 @@
-<div align="center">
-
-<img src="tqq qui.png" width="100%" alt="">
-
-</div>
+<video 
+  src="TQQ GITHUB" width="100%" controls muted autoplay>
+</video>
