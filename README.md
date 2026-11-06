@@ -1,3 +1,3 @@
 <div align="center">
-<img src="TQQWHITE.png" width="100%" alt="">
+<img src="TQQWHITE1.png" width="100%" alt="">
 </div>
